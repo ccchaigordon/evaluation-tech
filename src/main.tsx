@@ -17,7 +17,6 @@ import CsB2023 from "./components/Events/csbersamamu-2023";
 import NotFound from "./components/NotFound";
 
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.css";
 
 const router = createBrowserRouter([
   {
