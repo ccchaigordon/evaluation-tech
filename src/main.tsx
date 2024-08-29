@@ -2,21 +2,21 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import MainPage from "./MainPage";
-import EventPage from "./EventPage";
-import EventPage2 from "./EventPage2";
-import Lon2024 from "./Events/lon-2024";
-import Pixel2024 from "./Events/pixel-2024";
-import Agm2024 from "./Events/agm-2024";
-import Vhack2024 from "./Events/vhack-2024";
-import Sukapps2024 from "./Events/sukapps-2024";
-import Frosty2023 from "./Events/frosty-2023";
-import Me22024 from "./Events/me2-2024";
-import Vcsirf2023 from "./Events/vscirf-2023";
-import CsB2023 from "./Events/csbersamamu-2023";
-import NotFound from "./NotFound";
+import MainPage from "./components/MainPage";
+import EventPage from "./components/EventPage";
+import EventPage2 from "./components/EventPage2";
+import Lon2024 from "./components/Events/lon-2024";
+import Pixel2024 from "./components/Events/pixel-2024";
+import Agm2024 from "./components/Events/agm-2024";
+import Vhack2024 from "./components/Events/vhack-2024";
+import Sukapps2024 from "./components/Events/sukapps-2024";
+import Frosty2023 from "./components/Events/frosty-2023";
+import Me22024 from "./components/Events/me2-2024";
+import Vcsirf2023 from "./components/Events/vscirf-2023";
+import CsB2023 from "./components/Events/csbersamamu-2023";
+import NotFound from "./components/NotFound";
 
-import "../App.css";
+import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 
 const router = createBrowserRouter([
