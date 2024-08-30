@@ -1,11 +1,16 @@
 import NavBar from "../NavBar";
 import Footer from "../Footer";
 import useDocumentTitle from "../useDocumentTitle";
+import { useEffect } from "react";
 
 function Vcsirf2023() {
   useDocumentTitle(
     "Virtual Computer Science Internship & Recruitment Fair 2023 | CS Society USM"
   );
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <>

@@ -1,11 +1,16 @@
 import NavBar from "../NavBar";
 import Footer from "../Footer";
 import useDocumentTitle from "../useDocumentTitle";
+import { useEffect } from "react";
 
 function Pixel2024() {
   useDocumentTitle(
     "Project Innovation & eXploration in CS Education and Learning 2024 | CS Society USM"
   );
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <>

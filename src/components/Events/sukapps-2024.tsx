@@ -1,9 +1,14 @@
 import NavBar from "../NavBar";
 import Footer from "../Footer";
 import useDocumentTitle from "../useDocumentTitle";
+import { useEffect } from "react";
 
 function Sukapps() {
   useDocumentTitle("Sukan Antara Pusat Pengajian Sains 2024 | CS Society USM");
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <>

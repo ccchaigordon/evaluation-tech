@@ -1,9 +1,14 @@
 import NavBar from "../NavBar";
 import Footer from "../Footer";
 import useDocumentTitle from "../useDocumentTitle";
+import { useEffect } from "react";
 
 function Frosty2023() {
   useDocumentTitle("Frosty Fantasy Night 2023 | CS Society USM");
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <>
