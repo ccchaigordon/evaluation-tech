@@ -16,7 +16,7 @@ function EventPage() {
         <div className="content">
           <Link className="card" to="/lon-2024">
             <img
-              src="/static/assets/lon-2024-poster.webp"
+              src="https://s6.imgcdn.dev/mClPa.webp"
               alt="Log Off Night 2024 image"
               className="lon-img"
             />
@@ -37,7 +37,7 @@ function EventPage() {
           </Link>
           <Link className="card" to="/pixel-2024">
             <img
-              src="/static/assets/pixel-2024-poster.webp"
+              src="https://s6.imgcdn.dev/mC0kT.webp"
               alt="PIXEL 2024 image"
               className="pixel-img"
             />
@@ -61,7 +61,7 @@ function EventPage() {
           </Link>
           <Link className="card" to="/agm-2024">
             <img
-              src="/static/assets/agm-2024-poster.webp"
+              src="https://s6.imgcdn.dev/mCO9S.webp"
               alt="AGM 2024 image"
               className="agm-img"
             />
@@ -87,7 +87,7 @@ function EventPage() {
 
           <Link className="card" to="/vhack-2024">
             <img
-              src="/static/assets/vhack-2024-poster.webp"
+              src="https://s6.imgcdn.dev/mC2ji.webp"
               alt="V Hack 2024 image"
               className="vhack-img"
             />
@@ -108,7 +108,7 @@ function EventPage() {
           </Link>
           <Link className="card" to="/sukapps-2024">
             <img
-              src="/static/assets/sukapps-2024-poster.webp"
+              src="https://s6.imgcdn.dev/mCBq9.webp"
               alt="SUKAPPS 2024 image"
               className="sukapps-img"
             />
@@ -131,7 +131,7 @@ function EventPage() {
           </Link>
           <Link className="card" to="/frosty-2023">
             <img
-              src="/static/assets/frostynight-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCPdu.webp"
               alt="Frosty Night 2023 image"
               className="frosty-img"
             />
@@ -155,7 +155,7 @@ function EventPage() {
 
           <Link className="card" to="/me2-2024">
             <img
-              src="/static/assets/me2-2024-poster.webp"
+              src="https://s6.imgcdn.dev/mCa8t.webp"
               alt="Major Minor Exploration Event 2024 image"
               className="me2-img"
             />
@@ -178,7 +178,7 @@ function EventPage() {
           </Link>
           <Link className="card" to="/vcsirf-2023">
             <img
-              src="/static/assets/vcsirf-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCS4y.webp"
               alt="VCSIRF 2023 image"
               className="vcsirf-img"
             />
@@ -201,7 +201,7 @@ function EventPage() {
           </Link>
           <Link className="card" to="/csbersamamu-2023">
             <img
-              src="/static/assets/csbersamamu-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCsqN.webp"
               alt="CS Bersamamu 2023 image"
               className="csbersamamu-img"
             />

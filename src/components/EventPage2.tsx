@@ -16,7 +16,7 @@ function EventPage2() {
         <div className="content">
           <div className="card">
             <img
-              src="./src/assets/lon-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCUhL.webp"
               alt="Log Off Night 2023 image"
               className="lon-img"
             />
@@ -37,7 +37,7 @@ function EventPage2() {
           </div>
           <div className="card">
             <img
-              src="./src/assets/pixel-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mC0kT.webp"
               alt="PIXEL 2023 image"
               className="pixel-2023-img"
             />
@@ -61,7 +61,7 @@ function EventPage2() {
           </div>
           <div className="card">
             <img
-              src="./src/assets/agm-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCAPH.webp"
               alt="AGM 2023 image"
               className="agm-img"
             />
@@ -87,7 +87,7 @@ function EventPage2() {
 
           <div className="card">
             <img
-              src="./src/assets/cs-sports-day-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mC5uq.webp"
               alt="CS Sports Day 2023 image"
               className="sukapps-img"
             />
@@ -108,7 +108,7 @@ function EventPage2() {
           </div>
           <div className="card">
             <img
-              src="./src/assets/vhack-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCr18.webp"
               alt="V Hack 2023 image"
               className="vhack-2023-img"
             />
@@ -129,7 +129,7 @@ function EventPage2() {
           </div>
           <div className="card">
             <img
-              src="./src/assets/me2-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCz9w.webp"
               alt="Major Minor Exploration Event 2023 image"
               className="me2-2023-img"
             />
@@ -155,7 +155,7 @@ function EventPage2() {
 
           <div className="card">
             <img
-              src="./src/assets/cpp-clinic-2023-poster.webp"
+              src="https://s6.imgcdn.dev/mCkig.webp"
               alt="C++ Clinic 2023 image"
               className="cpp-img"
             />
@@ -176,7 +176,7 @@ function EventPage2() {
           </div>
           <div className="card">
             <img
-              src="./src/assets/csirf-2022-poster.webp"
+              src="https://s6.imgcdn.dev/mCnrv.webp"
               alt="CSIRF 2022 image"
               className="csirf-img"
             />
@@ -199,7 +199,7 @@ function EventPage2() {
           </div>
           <div className="card">
             <img
-              src="./src/assets/csbersamamu-2022-poster.webp"
+              src="https://s6.imgcdn.dev/mCQ8n.webp"
               alt="CS Bersamamu 2022 image"
               className="csbersamamu-2022-img"
             />
