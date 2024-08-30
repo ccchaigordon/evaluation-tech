@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+  "dev": "vite",
+  "build": "tsc -b && vite build --outDir public",
+  "lint": "eslint .",
+  "preview": "vite preview"
   },
   "dependencies": {
     "@types/react-router-dom": "^5.3.3",
