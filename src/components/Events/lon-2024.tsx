@@ -44,7 +44,7 @@ function Lon2024() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/lon-2024-poster.webp"
+            src="https://s6.imgcdn.dev/mClPa.webp"
             alt="Log Off Night 2023 image"
             className="lon-img"
           />

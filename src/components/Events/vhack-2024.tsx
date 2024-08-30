@@ -74,7 +74,7 @@ function Vhack2024() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/vhack-2024-poster.webp"
+            src="https://s6.imgcdn.dev/mC2ji.webp"
             alt=" image"
             className="vhack-img"
           />

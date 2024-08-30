@@ -53,7 +53,7 @@ function Frosty2023() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/frostynight-2023-poster.webp"
+            src="https://s6.imgcdn.dev/mCPdu.webp"
             alt=" image"
             className="frosty-2023-img"
           />

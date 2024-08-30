@@ -71,7 +71,7 @@ function Footer() {
               className="transition hover:scale-105"
             >
               <img
-                src="./src/assets/CS-logo-transparent.svg"
+                src="https://cssocietyusm.com/assets/logos/organizations/CS-logo-transparent.svg"
                 title="USM CS School Logo"
                 className="text-2xl h-12 pointer-events-none"
               ></img>
@@ -82,7 +82,7 @@ function Footer() {
               className="transition hover:scale-105"
             >
               <img
-                src="./src/assets/USM-color.svg"
+                src="https://cssocietyusm.com/assets/logos/organizations/USM-color.svg"
                 title="USM Logo"
                 className="text-2xl h-12 pointer-events-none"
               ></img>

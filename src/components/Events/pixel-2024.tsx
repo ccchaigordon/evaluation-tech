@@ -64,7 +64,7 @@ function Pixel2024() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/pixel-2024-poster.webp"
+            src="https://s6.imgcdn.dev/mC7vD.webp"
             alt="PIXEL 2023 image"
             className="pixel-img"
           />

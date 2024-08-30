@@ -63,7 +63,7 @@ function Me22024() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/me2-2024-poster.webp"
+            src="https://s6.imgcdn.dev/mCa8t.webp"
             alt="ME2 2024 image"
             className="me2-img"
           />

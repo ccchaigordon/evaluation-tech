@@ -65,7 +65,7 @@ function Vcsirf2023() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/vcsirf-2023-poster.webp"
+            src="https://s6.imgcdn.dev/mCS4y.webp"
             alt="VCSIRF image"
             className="vcsirf-2023-img"
           />

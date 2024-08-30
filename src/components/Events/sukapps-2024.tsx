@@ -71,7 +71,7 @@ function Sukapps() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/sukapps-2024-poster.webp"
+            src="https://s6.imgcdn.dev/mCBq9.webp"
             alt="Sukapps image"
             className="sukapps-2024-img"
           />

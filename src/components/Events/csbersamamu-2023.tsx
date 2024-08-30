@@ -51,7 +51,7 @@ function CsB() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/csbersamamu-2023-poster.webp"
+            src="https://s6.imgcdn.dev/mCsqN.webp"
             alt="CS Bersamamu image"
             className="csbersamamu-img"
           />

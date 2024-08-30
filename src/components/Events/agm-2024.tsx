@@ -54,7 +54,7 @@ function Agm2024() {
         </div>
         <div className="card-details-img">
           <img
-            src="./src/assets/agm-2024-poster.webp"
+            src="https://s6.imgcdn.dev/mCO9S.webp"
             alt="AGM 2024 image"
             className="agm-2024-img"
           />
