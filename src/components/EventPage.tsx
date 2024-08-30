@@ -37,7 +37,7 @@ function EventPage() {
           </Link>
           <Link className="card" to="/pixel-2024">
             <img
-              src="https://s6.imgcdn.dev/mC0kT.webp"
+              src="https://s6.imgcdn.dev/mC7vD.webp"
               alt="PIXEL 2024 image"
               className="pixel-img"
             />
